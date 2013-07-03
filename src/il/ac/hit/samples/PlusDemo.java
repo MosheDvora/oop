@@ -3,7 +3,7 @@ package il.ac.hit.samples;
 public class PlusDemo {
 
 	/**
-	 * @param args
+	 * @param args commite 3
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
