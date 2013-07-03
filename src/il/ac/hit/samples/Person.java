@@ -4,7 +4,7 @@ public class Person {
 	private String name;
 	private double height;
 	private int id;
-	
+	//test commite 1
 		
 	public Person(String nameVal, double heightVal, int idVal) {
 		this.name = nameVal;
